@@ -70,11 +70,3 @@ A média dos números é: 6.00
 
 - ⚡ Compilador C (por exemplo, `gcc`) para o código em C.
 - ⚡ Compilador C++ (por exemplo, `g++`) para o código em C++.
-
-## 👨‍💻 Autor
-
-- [joaopedrobn](https://github.com/joaopedrobn)
-
-## 📝 Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
